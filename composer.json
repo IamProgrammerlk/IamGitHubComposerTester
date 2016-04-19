@@ -1,7 +1,10 @@
 {
-	"type": "vcs",
-	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
 	"name": "iamprogrammerlk/iamgithubcomposertester",
+	"description": "Iam GitHub Composer Tester for PHP",
+	"keywords": ["IamProgrammerlk", "IamGitHubComposerTester"],
+	"type": "library",
+	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+
 	"autoload": {
 		"psr-0" : {
 			"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
