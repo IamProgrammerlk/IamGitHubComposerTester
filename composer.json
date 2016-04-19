@@ -1,9 +1,19 @@
 {
 	"name": "iamprogrammerlk/iamgithubcomposertester",
 	"description": "Iam GitHub Composer Tester for PHP",
-	"keywords": ["IamProgrammerlk", "IamGitHubComposerTester"],
+	"keywords": ["iamprogrammerlk", "iamgithubcomposertester"],
 	"type": "library",
+	"homepage": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
 	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "IamProgrammerlk",
+            "email": "iamprogrammerlk@gmail.com",
+			"homepage": "https://iamprogrammerlk.blogspot.com",
+            "role": "Developer"
+        }
+    ],
 
 	"autoload": {
 		"psr-0" : {
