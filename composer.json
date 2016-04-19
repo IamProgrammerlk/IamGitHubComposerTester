@@ -1,12 +1,11 @@
-"repositories": [
-    {
-        "type": "vcs",
-		"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
-		"name": "iamprogrammerlk/iamgithubcomposertester",
-		"autoload": {
-			"psr-0" : {
-				"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
-			}
+{
+	"type": "vcs",
+	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+	"name": "iamprogrammerlk/iamgithubcomposertester",
+	"autoload": {
+		"psr-0" : {
+			"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
 		}
-    }
-],
+	}
+}
+
