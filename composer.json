@@ -26,7 +26,9 @@
 		}
 	},
 	"autoload-dev": {
-
+		"psr-0" : {
+			"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
+		}
     },
     "suggest": {
 	
