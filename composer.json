@@ -1,7 +1,7 @@
 {
 	"name": "iamprogrammerlk/iamgithubcomposertester",
 	"description": "Iam GitHub Composer Tester for PHP",
-	"keywords": ["GitHub", "Composer", "Test", "IamProgrammerlk", "IamGitHubComposerTester"],
+	"keywords": ["github", "composer", "test", "iamprogrammerlk"],
 	"type": "library",
 	"homepage": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
 	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
@@ -18,7 +18,7 @@
         "php": ">=5.4.0"
     },
 	"require-dev": {
-
+		"php": ">=5.4.0"
     },
 	"autoload": {
 		"psr-0" : {
