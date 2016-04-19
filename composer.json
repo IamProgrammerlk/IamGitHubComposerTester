@@ -26,9 +26,7 @@
 		}
 	},
 	"autoload-dev": {
-		"psr-0" : {
-			"IamProgrammerlk\\IamTester" : "IamTester"
-		}
+
     },
     "suggest": {
 	
