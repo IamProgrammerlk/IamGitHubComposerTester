@@ -1,5 +1,5 @@
 {
-	"type": "vcs",
+	"type": "library",
 	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
 	"name": "iamprogrammerlk/iamgithubcomposertester",
 	"autoload": {
