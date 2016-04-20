@@ -22,12 +22,12 @@
     },
 	"autoload": {
 		"psr-4" : {
-			"IamProgrammerlk\\" : "IamSource/IamProgrammerlk/"
+			"IamProgrammerlk\\IamGitHubComposerTester\\" : "IamSource/IamGitHubComposerTester"
 		}
 	},
 	"autoload-dev": {
 		"psr-4" : {
-			"IamProgrammerlk\\" : "IamSource/IamProgrammerlk/"
+			"IamProgrammerlk\\IamGitHubComposerTester\\" : "IamSource/IamGitHubComposerTester"
 		}
     },
     "suggest": {
