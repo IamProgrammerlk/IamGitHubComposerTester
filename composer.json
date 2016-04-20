@@ -21,13 +21,13 @@
 		"php": ">=5.4.0"
     },
 	"autoload": {
-		"psr-0" : {
-			"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
+		"psr-4" : {
+			"IamProgrammerlk\\" : "IamSource/IamProgrammerlk/"
 		}
 	},
 	"autoload-dev": {
-		"psr-0" : {
-			"IamProgrammerlk\\IamGitHubComposerTester" : "IamSource"
+		"psr-4" : {
+			"IamProgrammerlk\\" : "IamSource/IamProgrammerlk/"
 		}
     },
     "suggest": {
